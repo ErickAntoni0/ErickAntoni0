@@ -12,6 +12,7 @@ Hola, soy Erick Muciño, estudiante de Ingeniería en Sistemas Computacionales. 
 
 ## 🏆 Logros
 - Finalista en un hackatón general y mención honorífica en la categoría principal, trabajando en equipo con Astar como patrocinador.
+[https://nft-cdn.alchemy.com/base-mainnet/83af6a6614d169767ec4905c26e77175]
 
 ## 🧑🏻‍💻 Mis objetivos
 Estoy preparándome para convertirme en Full Stack Developer, explorando Web3, blockchain y bases de datos con tecnologías emergentes, y construyendo un portafolio que refleje mi crecimiento.
@@ -21,6 +22,5 @@ Estoy preparándome para convertirme en Full Stack Developer, explorando Web3, b
 
 ---
 
-*Nota: Reemplaza los enlaces o añade imágenes de logos (e.g., `![Laravel](https://laravel.com/img/logotipo.png)`) si lo prefieres, manteniendo un diseño limpio.*
 # 💻Tecnologias que utilizo 
-![Logo del proyecto](assets/css.svg) ![Logo del proyecto](assets/html.svg) ![Logo del proyecto](assets/javascript.svg)
+![Logo del proyecto](assets/css.svg) ![Logo del proyecto](assets/html.svg) ![Logo del proyecto](assets/javascript.svg) ![Logo del proyecto](assets/laravel.svg)
