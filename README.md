@@ -23,5 +23,4 @@ Estoy preparándome para convertirme en Full Stack Developer, explorando Web3, b
 ---
 
 # 💻Tecnologias que utilizo 
-![Logo del proyecto](assets/css.svg) ![Logo del proyecto](assets/html.svg) ![Logo del proyecto](assets/javascript.svg) ![Logo del proyecto](assets/Laravel.svg) ![Logo](assets/django-icon.svg)
-![Logo](assets/blockchain-3019121_1280.png.webp) ![Logo](assets/What_Web3_Going_2023-2.jpg)
+![Logo del proyecto](assets/css.svg) ![Logo del proyecto](assets/html.svg) ![Logo del proyecto](assets/javascript.svg) ![Laravel](assets/Laravel.svg) 
