@@ -20,9 +20,10 @@ Estoy preparándome para convertirme en Full Stack Developer, explorando Web3, b
 
 ## 📂 Proyectos
 A continuacion, comparto algunos de mis repositorios con mis proyects desarrollados
-[Sistema Médico](https://github.com/ErickAntoni0/PrediSalud-BI)
-[Supermercado](https://github.com/ErickAntoni0/SuperMarketG)
-[CandyPlanet](https://github.com/ErickAntoni0/Candy-Planet)
+
+- [Sistema Médico](https://github.com/ErickAntoni0/PrediSalud-BI)
+- [Supermercado](https://github.com/ErickAntoni0/SuperMarketG)
+- [CandyPlanet](https://github.com/ErickAntoni0/Candy-Planet)
 ---
 
 # 💻Tecnologias que utilizo 
