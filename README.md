@@ -12,7 +12,7 @@ Hola, soy Erick Muciño, estudiante de Ingeniería en Sistemas Computacionales. 
 
 ## 🏆 Logros
 - Finalista en un hackatón general y mención honorífica en la categoría principal, trabajando en equipo con Astar como patrocinador.
-- 
+
 ![NFT](assets/NFT.png)
 
 ## 🧑🏻‍💻 Mis objetivos
