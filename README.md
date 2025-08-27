@@ -19,8 +19,10 @@ Hola, soy Erick Muciño, estudiante de Ingeniería en Sistemas Computacionales. 
 Estoy preparándome para convertirme en Full Stack Developer, explorando Web3, blockchain y bases de datos con tecnologías emergentes, y construyendo un portafolio que refleje mi crecimiento.
 
 ## 📂 Proyectos
-[Enlace a proyectos personales o repositorios] (ajústalos según tengas)
-
+A continuacion, comparto algunos de mis repositorios con mis proyects desarrollados
+[Sistema Médico](https://github.com/ErickAntoni0/PrediSalud-BI)
+[Supermercado](https://github.com/ErickAntoni0/SuperMarketG)
+[CandyPlanet](https://github.com/ErickAntoni0/Candy-Planet)
 ---
 
 # 💻Tecnologias que utilizo 
