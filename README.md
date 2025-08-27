@@ -27,4 +27,5 @@ A continuacion, comparto algunos de mis repositorios con mis proyects desarrolla
 ---
 
 # 💻Tecnologias que utilizo 
-![Logo del proyecto](assets/css.svg) ![Logo del proyecto](assets/html.svg) ![Logo del proyecto](assets/javascript.svg) ![Laravel](assets/laravel-2.svg) 
+Estas son una pequeña muestra de las tecnologías que utilizo para el desarrollo de mis proyectos
+![Logo del proyecto](assets/css.svg) ![Logo del proyecto](assets/html.svg) ![Logo del proyecto](assets/javascript.svg) 
