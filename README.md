@@ -1,9 +1,3 @@
-Perfecto 🔥 Tu README ya tiene buena estructura y claridad, pero podemos **llevarlo a un nivel más profesional y actualizado** integrando tus nuevos logros y tecnologías (Swift, Xcode, Scroll, ENS, Arbitrum, ETH Monterrey, etc.), además de mejorar la redacción y presentación visual para que destaque más en GitHub.
-
-Aquí tienes una **versión mejorada y actualizada** de tu README principal 👇
-
----
-
 # 👾 **Erick Jair Muciño**
 
 ## 👻 **¿Quién soy?**
@@ -51,17 +45,6 @@ Comparto mis proyectos personales y colaborativos enfocados en **tecnologías in
 * 🚀 Contribuidor activo en proyectos de Web3 y tecnologías descentralizadas
 
 ---
-
-## 📫 **Conecta conmigo**
-
-* 🌐 [Twitter / X](https://x.com/)
-* 💼 [LinkedIn](https://linkedin.com/in/)
-* 🧠 [Portfolio / Website](https://) *(opcional si ya tienes uno)*
-
----
-
-¿Quieres que te ayude a agregar **badges** (iconos visuales de tecnologías como Solidity, Swift, React, etc.) para que se vea más llamativo en GitHub?
-Puedo generarte la versión con los íconos Markdown listos para copiar y pegar.
 
 ![NFT](assets/NFT.png)
 
