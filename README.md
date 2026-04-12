@@ -2,7 +2,7 @@
 
 ## 👻 **¿Quién soy?**
 
-Hola, soy **Erick Muciño**, estudiante de **Ingeniería en Sistemas Computacionales** y **desarrollador Full Stack / Web3 / iOS**.
+Hola, soy **Erick Muciño**, **Ingeniero en Sistemas Computacionales** y **desarrollador Full Stack / Web3 / iOS**.
 Comparto mis proyectos personales y colaborativos enfocados en **tecnologías innovadoras**, **blockchain**, y **aplicaciones descentralizadas**.
 
 ---
