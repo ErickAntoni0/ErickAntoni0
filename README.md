@@ -59,7 +59,12 @@ A continuacion, comparto algunos de mis repositorios con mis proyects desarrolla
 - [CandyPlanet](https://github.com/ErickAntoni0/Candy-Planet)
 ---
 
-# 💻Tecnologias que utilizo 
-- Estas son una pequeña muestra de las tecnologías que utilizo para el desarrollo de mis proyectos
+# 💻 Tecnologías que utilizo  
+Estas son algunas de las tecnologías que utilizo en mis proyectos:
 
-![Logo del proyecto](assets/css.svg) ![Logo del proyecto](assets/html.svg) ![Logo del proyecto](assets/javascript.svg) 
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white)
