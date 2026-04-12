@@ -1,70 +1,82 @@
-# 👾 **Erick Jair Muciño**
+# 👾 Erick Jair Muciño
 
-## 👻 **¿Quién soy?**
-
-Hola, soy **Erick Muciño**, **Ingeniero en Sistemas Computacionales** y **desarrollador Full Stack / Web3 / iOS**.
-Comparto mis proyectos personales y colaborativos enfocados en **tecnologías innovadoras**, **blockchain**, y **aplicaciones descentralizadas**.
+## 🚀 Full Stack Developer | Web3 | Backend
 
 ---
 
-## 💻 **Tecnologías que utilizo**
+## 👻 ¿Quién soy?
 
-### 🧠 **Frontend**
+Soy desarrollador de software enfocado en **Backend, Full Stack y Web3**, con experiencia en la creación de **APIs REST**, **DApps** y soluciones escalables.
 
-* HTML | CSS | JavaScript | React
-
-### ⚙️ **Backend**
-
-* Laravel | Django | Node.js
-
-### 📱 **Desarrollo iOS**
-
-* Swift | Xcode
-
-### 🌐 **Web3 & Blockchain**
-
-* Solidity | Hardhat | Ethers.js | Web3.js
-* Deploys en **Scroll**, **ENS**, **Arbitrum**
-* Desarrollo de **DApps** y **Smart Contracts**
-
-### 🧩 **Data & Analytics**
-
-* Snowflake | Metabase
-
-### 💻 **Sistemas Operativos**
-
-* Ubuntu | macOS | Windows
+Me apasiona construir sistemas que integren **blockchain**, **data** y tecnologías modernas para resolver problemas reales.
 
 ---
 
-## 🏆 **Logros y Participaciones**
+## ⚡ Tecnologías
 
-* 🏅 **Ganador en tracks de ETH Monterrey 2025 (Hackathon)**
-* 💡 Deploys exitosos en **Scroll**, **ENS** y **Arbitrum**
-* 🎯 Finalista y mención honorífica en hackatón general, colaborando con **Astar Network** como patrocinador
-* 🚀 Contribuidor activo en proyectos de Web3 y tecnologías descentralizadas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,laravel,git,linux" />
+</p>
+
+### 🧠 Web3
+- Solidity • Hardhat • Ethers.js • Web3.js  
+- Deploys en Scroll, ENS, Arbitrum  
+
+### 📊 Data
+- Snowflake • Metabase  
+
+### 📱 Mobile
+- Swift • Xcode  
 
 ---
+
+## 🏆 Logros
+
+- 🏅 Ganador en **ETH Monterrey 2025**
+- 🚀 Deploys en Scroll, ENS y Arbitrum  
+- 🎯 Colaboración en hackatón con Astar Network  
+- 💡 Desarrollo activo en proyectos Web3  
+
+---
+
+## 🎥 Demo / Preview
 
 ![NFT](assets/NFT.png)
 
-## 🧑🏻‍💻 Mis objetivos
-Estoy preparándome para convertirme en Full Stack Developer, explorando Web3, blockchain y bases de datos con tecnologías emergentes, y construyendo un portafolio que refleje mi crecimiento.
-
-## 📂 Proyectos
-A continuacion, comparto algunos de mis repositorios con mis proyects desarrollados
-
-- [Sistema Médico](https://github.com/ErickAntoni0/PrediSalud-BI)
-- [Supermercado](https://github.com/ErickAntoni0/SuperMarketG)
-- [CandyPlanet](https://github.com/ErickAntoni0/Candy-Planet)
 ---
 
-# 💻 Tecnologías que utilizo  
-Estas son algunas de las tecnologías que utilizo en mis proyectos:
+## 📂 Proyectos destacados
 
-![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white)
+### 🏥 Sistema Médico (BI & Data)
+🔗 https://github.com/ErickAntoni0/PrediSalud-BI  
+- Análisis de datos y visualización  
+- Integración con herramientas BI  
+
+---
+
+### 🛒 Sistema de Supermercado
+🔗 https://github.com/ErickAntoni0/SuperMarketG  
+- Gestión de productos y ventas  
+- Backend estructurado  
+
+---
+
+### 🍬 CandyPlanet
+🔗 https://github.com/ErickAntoni0/Candy-Planet  
+- Aplicación web interactiva  
+- UI + lógica de negocio  
+
+---
+
+## 🎯 Objetivo
+
+Convertirme en un desarrollador **Full Stack especializado en Backend y Web3**, creando soluciones innovadoras y escalables.
+
+---
+
+## 📫 Contacto
+
+- 💼 LinkedIn: (pon aquí tu link)
+- 📧 Email: (opcional)
+
+---
