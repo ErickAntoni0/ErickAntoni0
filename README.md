@@ -1,12 +1,12 @@
 # 👾 Erick Jair Muciño
 
-## 🚀 Full Stack Developer | Web3 | Backend
+## 🚀 Ingeniero en Sistemas Computacionales | Full Stack Developer | Web3 | Backend
 
 ---
 
 ## 👻 ¿Quién soy?
 
-Soy desarrollador de software enfocado en **Backend, Full Stack y Web3**, con experiencia en la creación de **APIs REST**, **DApps** y soluciones escalables.
+Soy Ingeniero en Sistemas Computacionales enfocado en desarrollo de software especializado en **Backend, Full Stack y Web3**, con experiencia en la creación de **APIs REST**, **DApps** y soluciones escalables.
 
 Me apasiona construir sistemas que integren **blockchain**, **data** y tecnologías modernas para resolver problemas reales.
 
