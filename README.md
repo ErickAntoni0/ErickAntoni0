@@ -76,7 +76,7 @@ Convertirme en un desarrollador **Full Stack especializado en Backend y Web3**, 
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: (pon aquí tu link)
-- 📧 Email: (opcional)
+- 💼 LinkedIn: (www.linkedin.com/in/erick-jair-muciño-antonio-069443326)
+- 📧 Email: (antonoierick.088@gmail.com)
 
 ---
